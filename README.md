@@ -9,13 +9,13 @@ O projeto é uma aplicação Web que envolve o uso de 4 tecnologias diferentes:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![WebGL](https://a11ybadges.com/badge?logo=webgl)
 
-O WebGL é gerado através da build do Unity Engine.
+O _**WebGL**_ é gerado através da build do Unity Engine.
 
-A parte React comporta a página Web e as interações entre o usuário e a navegação entre página. É na parte web que o usuário possui interação com o jogo WebGL.
+A parte _**React**_ comporta a página Web e as interações entre o usuário e a navegação entre página. É na parte web que o usuário possui interação com o jogo WebGL.
 
-A parte em Node é uma API que é consumida tanto pela área com o React quanto pela área WebGL.
+A parte em _**Node**_ é uma API que é consumida tanto pela área com o React quanto pela área WebGL.
 
-O Mongo DB é o banco de dados que irá guardar e exibir  os dados enviados tanto pelo React quanto pelo WebGL.
+O _**Mongo DB**_ é o banco de dados que irá guardar e exibir  os dados enviados tanto pelo React quanto pelo WebGL.
 
 ##  💾 Repositórios 
 
