@@ -15,7 +15,7 @@ A parte _**React**_ comporta a página Web e as interações entre o usuário e 
 
 A parte em _**Node**_ é uma API que é consumida tanto pela área com o React quanto pela área WebGL.
 
-O _**Mongo DB**_ é o banco de dados que irá guardar e exibir  os dados enviados tanto pelo React quanto pelo WebGL.
+O _**Postgres**_ é o banco de dados que irá guardar e exibir  os dados enviados tanto pelo React quanto pelo WebGL.
 
 ##  💾 Repositórios 
 
