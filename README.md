@@ -29,7 +29,7 @@ Nessa seção você encontra os links para os repositórios de cada parte do pro
 
 Nessa seção você encontra os links dos deploys de cada tecnologia mencionada. Clique em um desses tópicos abaixo:
 
-- <a href = "http://advquestapi-env.eba-qfqfkwgf.sa-east-1.elasticbeanstalk.com/">Deploy da API (AWS)</a>
+- <a href = "https://api.adventureapi.co/">Deploy da API (AWS)</a>
 - <a href = "https://adventurequest.netlify.app"> Aplicação Web (Netlify)</a>
 
 
